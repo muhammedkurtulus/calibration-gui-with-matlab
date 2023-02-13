@@ -1,5 +1,5 @@
 # calibration-gui-with-matlab
 MATLAB | GPIB: IEEE 488 | Agilent 3458A | FLUKE 6105A
 
-# simple internship study
+# internship study
 first `gerilim` should be started
